@@ -4,5 +4,7 @@ eureka:
     fetch-registry: false
     #service-url:
       #defaultZone: http://admin:Welkom123@localhost:8761/eureka
+    service-url:
+      defaultZone: http://admin:Welkom123@localhost:8761/eureka
   instance:
     hostname: localhost
