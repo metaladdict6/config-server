@@ -5,6 +5,6 @@ eureka:
     #service-url:
       #defaultZone: http://admin:Welkom123@localhost:8761/eureka
     service-url:
-      #defaultZone: http://localhost:8761/eureka
+      defaultZone: http://localhost:8761/eureka
   instance:
     hostname: localhost
